@@ -1,0 +1,121 @@
+Date,Product,Category,Region,Sales_Amount
+2024-01-01,Personal Loan,Banking Product,Eastern Cape,14956
+2024-01-02,Savings Account,Banking Product,Eastern Cape,3771
+2024-01-03,Personal Loan,Banking Product,Gauteng,10853
+2024-01-04,Savings Account,Banking Product,Eastern Cape,11635
+2024-01-05,Savings Account,Banking Product,Eastern Cape,12688
+2024-01-06,Credit Card,Banking Product,Gauteng,5882
+2024-01-07,Personal Loan,Banking Product,KZN,5275
+2024-01-08,Credit Card,Banking Product,Western Cape,13266
+2024-01-09,Personal Loan,Banking Product,Gauteng,7330
+2024-01-10,Savings Account,Banking Product,Eastern Cape,14705
+2024-01-11,Home Loan,Banking Product,KZN,7196
+2024-01-12,Credit Card,Banking Product,Eastern Cape,11211
+2024-01-13,Home Loan,Banking Product,Western Cape,9498
+2024-01-14,Personal Loan,Banking Product,Western Cape,3990
+2024-01-15,Credit Card,Banking Product,Eastern Cape,4272
+2024-01-16,Home Loan,Banking Product,Eastern Cape,12616
+2024-01-17,Credit Card,Banking Product,Gauteng,8656
+2024-01-18,Home Loan,Banking Product,KZN,6712
+2024-01-19,Home Loan,Banking Product,KZN,9247
+2024-01-20,Credit Card,Banking Product,Eastern Cape,3009
+2024-01-21,Home Loan,Banking Product,Eastern Cape,13897
+2024-01-22,Credit Card,Banking Product,Eastern Cape,8035
+2024-01-23,Personal Loan,Banking Product,KZN,3724
+2024-01-24,Savings Account,Banking Product,Eastern Cape,14581
+2024-01-25,Credit Card,Banking Product,Eastern Cape,4808
+2024-01-26,Personal Loan,Banking Product,Eastern Cape,14046
+2024-01-27,Credit Card,Banking Product,KZN,8865
+2024-01-28,Personal Loan,Banking Product,KZN,7606
+2024-01-29,Personal Loan,Banking Product,Gauteng,5596
+2024-01-30,Personal Loan,Banking Product,Western Cape,6214
+2024-01-31,Credit Card,Banking Product,Western Cape,9869
+2024-02-01,Home Loan,Banking Product,Gauteng,11931
+2024-02-02,Personal Loan,Banking Product,Eastern Cape,12301
+2024-02-03,Home Loan,Banking Product,Gauteng,13537
+2024-02-04,Credit Card,Banking Product,Eastern Cape,9129
+2024-02-05,Savings Account,Banking Product,Eastern Cape,13415
+2024-02-06,Savings Account,Banking Product,Eastern Cape,3190
+2024-02-07,Savings Account,Banking Product,Eastern Cape,5677
+2024-02-08,Home Loan,Banking Product,Eastern Cape,3493
+2024-02-09,Savings Account,Banking Product,Gauteng,9208
+2024-02-10,Personal Loan,Banking Product,Western Cape,4435
+2024-02-11,Credit Card,Banking Product,Western Cape,4542
+2024-02-12,Personal Loan,Banking Product,Eastern Cape,14784
+2024-02-13,Credit Card,Banking Product,KZN,7758
+2024-02-14,Credit Card,Banking Product,KZN,12967
+2024-02-15,Credit Card,Banking Product,KZN,4542
+2024-02-16,Personal Loan,Banking Product,Western Cape,6312
+2024-02-17,Savings Account,Banking Product,Eastern Cape,3187
+2024-02-18,Personal Loan,Banking Product,Eastern Cape,13210
+2024-02-19,Personal Loan,Banking Product,Western Cape,4407
+2024-02-20,Home Loan,Banking Product,Western Cape,14732
+2024-02-21,Credit Card,Banking Product,Eastern Cape,5682
+2024-02-22,Personal Loan,Banking Product,Western Cape,6887
+2024-02-23,Home Loan,Banking Product,Western Cape,13094
+2024-02-24,Credit Card,Banking Product,Gauteng,13780
+2024-02-25,Credit Card,Banking Product,Western Cape,8339
+2024-02-26,Savings Account,Banking Product,KZN,4971
+2024-02-27,Home Loan,Banking Product,Gauteng,9881
+2024-02-28,Home Loan,Banking Product,Western Cape,10288
+2024-02-29,Savings Account,Banking Product,Gauteng,10962
+2024-03-01,Personal Loan,Banking Product,KZN,13270
+2024-03-02,Personal Loan,Banking Product,KZN,8136
+2024-03-03,Savings Account,Banking Product,Western Cape,11890
+2024-03-04,Savings Account,Banking Product,Western Cape,8120
+2024-03-05,Home Loan,Banking Product,KZN,3375
+2024-03-06,Personal Loan,Banking Product,Eastern Cape,3525
+2024-03-07,Credit Card,Banking Product,Gauteng,5582
+2024-03-08,Personal Loan,Banking Product,Western Cape,14083
+2024-03-09,Personal Loan,Banking Product,Gauteng,3996
+2024-03-10,Home Loan,Banking Product,Eastern Cape,14039
+2024-03-11,Credit Card,Banking Product,Western Cape,9258
+2024-03-12,Personal Loan,Banking Product,Western Cape,6775
+2024-03-13,Home Loan,Banking Product,Gauteng,6102
+2024-03-14,Savings Account,Banking Product,Gauteng,9009
+2024-03-15,Credit Card,Banking Product,Gauteng,13971
+2024-03-16,Savings Account,Banking Product,KZN,13523
+2024-03-17,Home Loan,Banking Product,KZN,11905
+2024-03-18,Credit Card,Banking Product,Western Cape,14469
+2024-03-19,Personal Loan,Banking Product,Eastern Cape,7335
+2024-03-20,Personal Loan,Banking Product,Gauteng,12259
+2024-03-21,Home Loan,Banking Product,Gauteng,14392
+2024-03-22,Home Loan,Banking Product,Eastern Cape,6247
+2024-03-23,Personal Loan,Banking Product,Eastern Cape,8832
+2024-03-24,Savings Account,Banking Product,Western Cape,9813
+2024-03-25,Savings Account,Banking Product,Gauteng,13523
+2024-03-26,Personal Loan,Banking Product,Eastern Cape,11006
+2024-03-27,Personal Loan,Banking Product,Gauteng,13815
+2024-03-28,Savings Account,Banking Product,Gauteng,5857
+2024-03-29,Savings Account,Banking Product,Gauteng,13069
+2024-03-30,Credit Card,Banking Product,KZN,4203
+2024-03-31,Credit Card,Banking Product,KZN,12999
+2024-04-01,Personal Loan,Banking Product,KZN,14129
+2024-04-02,Credit Card,Banking Product,Western Cape,4893
+2024-04-03,Home Loan,Banking Product,Eastern Cape,3137
+2024-04-04,Home Loan,Banking Product,Western Cape,12789
+2024-04-05,Home Loan,Banking Product,Western Cape,13208
+2024-04-06,Personal Loan,Banking Product,Eastern Cape,10758
+2024-04-07,Personal Loan,Banking Product,Gauteng,14107
+2024-04-08,Personal Loan,Banking Product,Western Cape,12390
+2024-04-09,Personal Loan,Banking Product,Eastern Cape,12859
+2024-04-10,Credit Card,Banking Product,KZN,9184
+2024-04-11,Personal Loan,Banking Product,Eastern Cape,14272
+2024-04-12,Credit Card,Banking Product,Western Cape,14525
+2024-04-13,Personal Loan,Banking Product,Eastern Cape,8857
+2024-04-14,Home Loan,Banking Product,KZN,7150
+2024-04-15,Personal Loan,Banking Product,Gauteng,13313
+2024-04-16,Home Loan,Banking Product,Western Cape,6192
+2024-04-17,Savings Account,Banking Product,Eastern Cape,7437
+2024-04-18,Credit Card,Banking Product,Western Cape,14854
+2024-04-19,Savings Account,Banking Product,Gauteng,5603
+2024-04-20,Personal Loan,Banking Product,Eastern Cape,7334
+2024-04-21,Credit Card,Banking Product,Eastern Cape,12321
+2024-04-22,Personal Loan,Banking Product,Western Cape,11884
+2024-04-23,Home Loan,Banking Product,Eastern Cape,7049
+2024-04-24,Home Loan,Banking Product,Western Cape,14726
+2024-04-25,Credit Card,Banking Product,Gauteng,7085
+2024-04-26,Credit Card,Banking Product,Gauteng,3006
+2024-04-27,Home Loan,Banking Product,Gauteng,11597
+2024-04-28,Credit Card,Banking Product,Eastern Cape,4580
+2024-04-29,Savings Account,Banking Product,KZN,14781
